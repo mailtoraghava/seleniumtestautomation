@@ -6,6 +6,7 @@ public class Myfirsttest {
 		System.out.println("welcome to git ");
 		System.out.println("addone");
 		System.out.println("devbranch added");
+		System.out.println("another commit added in dev ");
 
 	}
 
