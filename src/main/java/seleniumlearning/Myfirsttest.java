@@ -8,6 +8,7 @@ public class Myfirsttest {
 		System.out.println("devbranch added");
 		System.out.println("another commit added in dev ");
 		int a =10;
+		string [] b ="name";
 
 	}
 
